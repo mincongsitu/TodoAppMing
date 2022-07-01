@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoAppExample</string>
+    <string name="input">Enter task</string>
+    <string name="submit">Button</string>
+</resources>
